@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>动态</title>
+		<link rel="stylesheet" href="css/jquery.fullPage.css" />
+		<link rel="stylesheet" href="css/dt.css" />
+		<script type="text/javascript" src="js/jquery.min.js" ></script>
+		<script type="text/javascript" src="js/jquery.fullPage.js" ></script>
+		<script type="text/javascript" src="js/jquery.fullPage.min.js" ></script>
+	</head>
+	<body>
+		<div class="all">
+			<div class="section section1">
+				<audio id="music" src="js/Alan Walker - Faded - 纯音乐版.mp3"  controls="controls" ></audio>
+				<button class="play" >播放</button>
+				<div class="s1-img1"><img src="images/024.png"/></div>
+				<h1 class="s1-h1">手机改变了我们的生活</h1>
+				<div class="s1-img2"><img src="images/041.png"/></div>
+				<div class="s1-div1">
+				    <p class="s1-p1">苹果、三星、索尼这些智能手机品牌，相信大家都不会感到陌生。</p>
+					<p class="s1-p2">1876年，贝尔发明了电话；1973年，出现了第一台手机。</p>
+					<p class="s1-p3">它们的出现，给人类带来了通讯的方便，使远隔重洋的人在拨</p>
+					<p class="s1-p4">起手机时的一瞬间听到远方亲朋熟悉的声音，正所谓“天涯若比邻”。</p>
+					<p class="s1-p5">如今，随着科技的迅速发展，手机不再只是一个普通的通讯工具，</p>
+					<p class="s1-p6">手机的使用范围、功能更加广泛，人们可以用它在线聊天，</p>
+					<p class="s1-p7">看电影，看小说，看新闻，玩游戏、娱乐等等。</p>
+				</div>	
+			</div>
+			<div class="section section2">
+					<div class="sd1-img1"><img src="images/023.png"/></div>
+					<h1 class="sd1-h1">手机给我们的好与坏</h1>
+					<div class="s2-img2"><img src="images/034.png"/></div>
+					<p class="sd1-p1">走在大街上，你会发现，百分之八十的人的口袋里都会有一台
+						智能手机，有的人还一边走一边玩手机，撞到电线杆等障碍物的事
+						故更是时有发生；很多餐厅、咖啡厅的店门前都会有这么一段话，
+						“内有无线网络”，许多人和朋友来到餐厅里，并不是和朋友聊天
+						，而是“低头看手机。”
+					</p>	
+			</div>
+			<div class="section section3">
+				<div class="s3-img1"><img src="images/022.png"/></div>
+				<h1 class="s3-h1">我们应该理性的对待手机</h1>
+				<p class="s3-p1">科技的发展迅速，智能手机的功能广泛，影响并改变着人类的
+					生活，它方便了人类，也侵害者人类。我们应当扬其利，避其害，
+					合理、科学地使用手机。</p>
+			</div>
+			<div class="section section4">
+				<video src="js/小米无人机宣传视频_标清.mp4"  controls="controls" ></video>
+				<div class="s4-img1"><img src="images/026.png"/></div>
+				<div class="s4-img2"><img src="images/027.png"/></div>
+				<div class="s4-img3"><img src="images/028.png"/></div>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript">
+		$(function(){
+			$('.all').fullpage({
+				navigation:true,
+				navigationPosition:'right',
+				navigationTooltips:['手机改变了我们生活','手机给我们的好与坏','我们应该理性对待手机','第四页']
+			});
+		});
+	</script>
+</html>
