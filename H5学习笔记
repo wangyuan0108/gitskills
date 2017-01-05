@@ -1,0 +1,45 @@
+新增加的且可以使用的和常用的标签：
+    details:类似于title鼠标的提示功能一样和summary共用
+    keygen:生成密匙类
+    menu:菜单列表，可以取代ul
+    input:增加了一些新的type属性（search/tel/email/url/number/range/color/file/date相关的时间）
+
+新增加的一些全局属性：
+    contentEditable="true" 可以编译标签中的文字
+    designMode 只能在js中使用。当值等于on时，整个页面可以编辑文字，当值为off时整个页面不可以编辑文字。
+    hidden 设置标签内容的可见和不可见。
+    spellcheck 设置input和textarea中的拼写检查。
+    tabindex 设置Tab键获得焦点
+新增的一些标签：
+    time 时间
+    address 地址
+    mark 高亮显示文本
+    progress 表示一个任务的进度
+    meter 所占的比例
+form表单的一些新的属性：
+    form 属性不管在文档的哪个位置，都所属于等于ID的表单
+    formaction 给所有的提交按钮加此属性，可以提交到不同的地址
+    formmethod 分别指定不同的提交方法
+    placeholder 输入框中的提示文字
+    autofocus 控件自动获得焦点
+    list 一般结合标签datalist，但是一般datalist不显示，当文本框获得焦点时，且list等于datalist的id时候，才显示
+    autocomplete 值有on off 和不指定三种，
+表单自动验证的一些新的属性：
+    required 拥有此属性的元素则必须填写
+    pattern 值为筛选的正则表达式
+    min和max input数字和日期的范围
+    step input元素值增加减少的幅度
+显示表单验证：
+    checkValidity  输入内容有效性验证的方法，用在js中的
+关闭表单的验证：
+    1.form元素的novalidate 关闭整个表单的验证
+    2.input和submit的fromnovalidate属性
+增强的页面元素：
+    figure：放img实现图文并排
+    figcaption： 图片的标题
+ol标签新添加的属性 ：
+    start: 从多少开始
+    reversed: 反向排序
+cite：
+    作品的名字，规定不能表示包括作者在内的任何人名
+
