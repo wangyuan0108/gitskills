@@ -2,170 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f9333f-b39c-41af-b48c-43294efd48eb" name="默认的" comment="默认的">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/015.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/017.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/018.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/111.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/222.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/333.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/add-shopimg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/LF.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/book-icon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/book.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/bz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/face.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/foodbg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/foodsicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/goTop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/im-btn3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/label.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/login-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/login-02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/login-bg03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/login-bgimg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/logo-phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/m_shop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/main-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/payment-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/payment-logo02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/per16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/sd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/sd2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/shop-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/bg-img/top01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/book-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/book-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/book-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/book-04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/book-05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/book-06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/box-img01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/cancel01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/code-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/count.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/foodpic-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/foodpic-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/foodpic-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/foodpic-04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/foodpic-05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/leabl-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/leabl-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/leabl-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/pj01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/pj02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/pj03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/pj04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/pj05.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/pj06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/vip-img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/images/zw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/address.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/addshop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/cancel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/commodity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/count.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/address.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/addshop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/cancel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/commodity1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/commodity2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/count.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/evaluate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/invoice.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/notice.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/order.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/payment.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/personal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/regsiter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/rest.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/rest2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/return.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/css/search.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/evaluate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/invoice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/address.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/addshop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/cancel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/commodity1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/commodity2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/count.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/evaluate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/invoice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/jquery.SuperSlide.2.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/notice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/order.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/payment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/personal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/regsiter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/return.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/js/toTop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/notice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/order.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/payment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/personal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/regsiter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/return.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/商城/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/个人信息.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/公告.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/加入购物车.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/去结算.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/取消订单记录.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/商品详情.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/头像照片.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/我的发票.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/我的订单.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/搜索.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/收货地址.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/更多个人信息.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/注册.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/登录.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/结算页.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/评价晒单.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/返修 退换货.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/商城改版/PSD/首页.psd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gitskills.iws" />
@@ -256,24 +110,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gitskills" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gitskills" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gitskills" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="商城改版" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="商城" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -395,7 +231,7 @@
       <workItem from="1477625758167" duration="4494000" />
       <workItem from="1483581194565" duration="813000" />
       <workItem from="1483583425615" duration="1933000" />
-      <workItem from="1483596294125" duration="64000" />
+      <workItem from="1483596294125" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1477357798195</created>
@@ -425,11 +261,18 @@
       <option name="project" value="LOCAL" />
       <updated>1483588832289</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="默认的">
+      <created>1483596405172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1483596405172</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22227000" />
+    <option name="totallyTimeSpent" value="22353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="860" extended-state="0" />
