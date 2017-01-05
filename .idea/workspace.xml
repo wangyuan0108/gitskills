@@ -1,188 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4f9333f-b39c-41af-b48c-43294efd48eb" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/3001.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/3002.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/63.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/65.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/QQ.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/about-bg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/about01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/about02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/about03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/about04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/about05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/about07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/abput06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/bg-index.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/box-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/box-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl09.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/cl12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/copy-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/copy-img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/day-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/day-color.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/day-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/day01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/day02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/day03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/effect01-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/effect02-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/effect02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/effect03-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/fc-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/fc-bg02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/fc-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/fc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/hot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/img06-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/img06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/img07-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/jianTou.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/nav.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/pay-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/payOff-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/qq-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/shopCar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/weixin-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/weixin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/bg-img/zhiFubBao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/box-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/copy-pass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/daoying.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/effect01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/effect03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/focus02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/focus05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/img07-one.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/img07-two.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/new01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/new02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/payTitle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/pic01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/pic02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/pic03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/pic04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/pic06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/pic07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img/thh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/18 .png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/42.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/43.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/45.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/46.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/47.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/49.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/52.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/53.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/54.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/55.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/56.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/58.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/59.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/61.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/jt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/tg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/images/img2/th.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/.idea/webapp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/css/about.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/css/new1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/css/off.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/css/pay.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/css/phone.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/css/rest2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/js/jquery-3.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/js/jquery.SuperSlide.2.1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/js/pay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/js/payOff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/js/phone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/js/sy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/js/toTop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/new1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/new2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/new3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/new4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/new5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/pay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/payOff.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/phone.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="f4f9333f-b39c-41af-b48c-43294efd48eb" name="默认的" comment="默认的">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gitskills.iws" />
@@ -263,8 +82,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -279,6 +96,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,199 +116,6 @@
       <recent name="D:\gitskills\js" />
       <recent name="D:\gitskills\images" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/watcherTasks.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/flex</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/.project</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/css/dt.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/css/jquery.fullPage.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/dt.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/01.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/02.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/021.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/022.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/023.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/024.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/025.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/026.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/027.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/028.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/029.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/03.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/032.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/033.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/034.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/04.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/041.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/05.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/06.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/07.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/08.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bbb.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bg1-s.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bg1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bg2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bg3-s.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bg3-xs.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bg3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bg4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bg5.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bg7-s.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bg7.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/bg9.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/card.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/cc-a.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/cc-b.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/logo.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/meilannote2_logo.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/p1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/p2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/p3.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/phone-blue.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/phone-white.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/playgame.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/screen.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/images/朴树 - 平凡之路.mp3</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/js/Alan Walker - Faded - 纯音乐版.mp3</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/js/jquery.SuperSlide.2.1.1.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/js/jquery.fullPage.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/js/jquery.fullPage.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/js/jquery.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/js/jquery.slimscroll.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/动态网页/js/小米无人机宣传视频_标清.mp4</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/.idea/.name</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/.idea/encodings.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/.idea/misc.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/.idea/modules.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/.idea/scopes/scope_settings.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/.idea/vcs.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/.idea/移动端布局.iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/about.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/css/phone.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/css/style.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/img/adver.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/img/headline.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/img/tour1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/img/tour2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/img/tour3.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/img/tour4.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/img/tour5.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/img/tour6.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/img/tour7.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/img/tour8.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/information.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/phone.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/移动端/ticket.html</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -562,7 +188,8 @@
       <workItem from="1477357710384" duration="3568000" />
       <workItem from="1477444217485" duration="11355000" />
       <workItem from="1477625758167" duration="4494000" />
-      <workItem from="1483581194565" duration="168000" />
+      <workItem from="1483581194565" duration="813000" />
+      <workItem from="1483583425615" duration="1914000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1477357798195</created>
@@ -578,11 +205,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477480034648</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="宣传网站带手机web">
+      <created>1483581404447</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1483581404447</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19585000" />
+    <option name="totallyTimeSpent" value="22144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="860" extended-state="0" />
@@ -627,7 +261,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+    <MESSAGE value="宣传网站带手机web" />
+    <option name="LAST_COMMIT_MESSAGE" value="宣传网站带手机web" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -897,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
