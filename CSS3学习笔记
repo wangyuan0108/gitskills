@@ -1,0 +1,40 @@
+选择器：
+    元素中插入内容 ：
+        E:before {
+            content:"所插入的内容"
+        }
+    个别元素不进行插入 ：
+         E:before {
+                content:none
+            }
+    插入图像 ：
+          E:before {
+                content:url("")
+            }
+    图像的alt属性作为图像的标题 ：
+            img:after {
+                content:attr(alt);
+                display:block;
+                text-align:center;
+                margin-top:5px;
+            }
+字体内容样式：
+    text-shadow 文字阴影效果：
+                text-shadow :length/离开文字的横向距离  length/离开文字的纵向距离  length/阴影的模糊半径 color/阴影颜色
+    word-break 文本自动换行 ：
+                1.normal  默认浏览器的换行规则；
+                2.keep-all 半角空格或连字符处换行；
+                3.break-all 允许在单词内换行；
+    word-wrap 让长单词和url自动换行：break-word;
+    font-style 是否斜体 ：
+                1.normal 不使用斜体
+                2.italic 使用斜体
+                3.oblique 使用倾斜体
+                4.inherit 从父元素继承
+    font-variant 设置字体大小写 ：
+                1.normal 浏览器默认值
+                2.small-caps 使用小型大写字母
+                3.inherit 从父元素继承
+    font-size-adjust 修改字体种类而不改变字体的尺寸
+盒子相关样式：
+
