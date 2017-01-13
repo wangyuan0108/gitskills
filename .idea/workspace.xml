@@ -2,8 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f9333f-b39c-41af-b48c-43294efd48eb" name="默认的" comment="默认的">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSS3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSS3学习笔记" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/address.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/border-img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/business.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/contents-img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/eight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/five.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/focusImg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/four.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/lb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/li-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/news.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/one.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/pay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/seven.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/six.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/three.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/img/two.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/.idea/personnel.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/connection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/contents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/connection.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/connection.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/connection.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/contents.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/contents.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/contents.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/expatriate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/expatriate.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/expatriate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/expatriateMain.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/expatriateMain.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/expatriateMain.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/index.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/login.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/login.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/message.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/message.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/message.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/need.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/need.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/need.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/needMain.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/needMain.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/needMain.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/news.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/news.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/news.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/notice.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/notice.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/notice.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/noticeMain.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/noticeMain.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/noticeMain.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/pay.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/pay.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/pay.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/regsiter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/regsiter.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/regsiter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/success.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/success.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/success.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/successMain.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/successMain.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/successMain.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/supply.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/supply.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/supply.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/supplyMain.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/supplyMain.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/css/supplyMain.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/expatriate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/expatriateMain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/js/jquery.SuperSlide.2.1.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/need.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/needMain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/news.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/notice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/noticeMain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/pay.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/regsiter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/successMain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/supply.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/personnel/supplyMain.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gitskills.iws" />
@@ -26,18 +125,7 @@
     <favorites_list name="gitskills" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="CSS3.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,7 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -116,6 +203,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -219,7 +307,9 @@
       <workItem from="1483581194565" duration="813000" />
       <workItem from="1483583425615" duration="1933000" />
       <workItem from="1483596294125" duration="9971000" />
-      <workItem from="1483666915601" duration="5981000" />
+      <workItem from="1483666915601" duration="6060000" />
+      <workItem from="1483945006449" duration="354000" />
+      <workItem from="1484287389022" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1477357798195</created>
@@ -270,11 +360,18 @@
       <option name="project" value="LOCAL" />
       <updated>1483609568787</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="默认的">
+      <created>1483694827653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1483694827653</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38115000" />
+    <option name="totallyTimeSpent" value="38626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -284,22 +381,22 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -328,6 +425,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/H5学习笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS3学习笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/top距离.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -596,23 +709,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/h5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/H5学习笔记">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS3学习笔记">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -620,6 +718,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS3学习笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/H5学习笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personnel/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

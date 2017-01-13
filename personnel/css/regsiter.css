@@ -1,0 +1,199 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background: #fff;
+  font-family: "宋体"; }
+
+li {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+.wrap {
+  width: 1200px;
+  margin: 0 auto; }
+
+.head {
+  height: 24px;
+  background: linear-gradient(0deg, #f1f1f1, #fff); }
+  .head nav {
+    float: right;
+    margin-right: 10px; }
+    .head nav li {
+      float: left; }
+      .head nav li:nth-of-type(2) {
+        margin: 0 10px; }
+        .head nav li:nth-of-type(2) a {
+          border-left: 1px solid #666;
+          border-right: 1px solid #666;
+          padding: 0 10px; }
+      .head nav li a {
+        color: #666;
+        font-size: 12px; }
+
+.logo {
+  padding: 15px 11px;
+  overflow: hidden; }
+
+.logo-left, .logo-mid, .logo-right {
+  float: left; }
+
+.logo-mid {
+  width: 255px;
+  margin-left: 40px;
+  font-weight: bold; }
+
+.logo-right {
+  float: right;
+  height: 36px;
+  background: linear-gradient(0deg, #0760be, #2b8ef6);
+  margin-top: 5px; }
+  .logo-right input {
+    height: 28px;
+    width: 315px;
+    margin-left: 3px;
+    padding-left: 33px;
+    box-sizing: border-box;
+    background: url("../img/search.png") no-repeat 4px 5px #fff;
+    outline: none;
+    border: none;
+    margin-top: 4px; }
+  .logo-right label a {
+    color: #fff;
+    display: inline-block;
+    padding: 0 23px;
+    font-weight: bold; }
+
+.content-left {
+  float: left; }
+  .content-left form label {
+    font-size: 12px;
+    width: 85px;
+    display: inline-block;
+    text-align: right;
+    color: #333;
+    letter-spacing: 1px; }
+    .content-left form label span {
+      color: #f00; }
+  .content-left form ul li input {
+    width: 328px;
+    height: 30px;
+    box-sizing: border-box;
+    padding-left: 5px; }
+  .content-left form ul li:nth-child(1) {
+    padding-left: 93px;
+    padding-bottom: 10px; }
+    .content-left form ul li:nth-child(1) button {
+      background: linear-gradient(0deg, #dfdfdf, #f8f5f5);
+      border: 1px solid #bdbdbd;
+      -webkit-border-radius: 4px;
+      -moz-border-radius: 4px;
+      border-radius: 4px;
+      padding: 13px 40px;
+      font-size: 14px;
+      font-weight: bold;
+      outline: none; }
+      .content-left form ul li:nth-child(1) button:nth-of-type(2) {
+        margin-left: 13px; }
+  .content-left form ul li:not(:first-child) {
+    margin-top: 20px; }
+
+.content {
+  overflow: hidden;
+  min-height: 500px;
+  width: 850px;
+  margin: 35px auto; }
+
+.content-right {
+  float: left;
+  padding-top: 90px;
+  padding-left: 90px; }
+  .content-right span {
+    font-size: 12px; }
+    .content-right span:nth-of-type(1) {
+      color: red; }
+  .content-right img {
+    vertical-align: top;
+    margin-left: 20px; }
+
+.text {
+  float: left;
+  clear: left;
+  margin-top: 20px; }
+  .text label {
+    font-size: 12px;
+    letter-spacing: 1px;
+    width: 85px;
+    text-align: right;
+    display: inline-block; }
+    .text label span {
+      color: red; }
+  .text textarea {
+    width: 730px;
+    height: 206px;
+    resize: none;
+    vertical-align: top;
+    padding-left: 5px;
+    padding-top: 5px; }
+  .text button {
+    background: linear-gradient(0deg, #065fbd, #2b8ef6);
+    width: 104px;
+    height: 31px;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 4px;
+    margin-top: 30px;
+    margin-left: 360px; }
+
+.play {
+  color: #fff;
+  background: linear-gradient(0deg, #065fbd, #2b8ef6) !important;
+  border: 1px solid #2B8EF6 !important; }
+
+footer {
+  font-size: 12px;
+  height: 30px;
+  line-height: 30px;
+  border-top: 1px solid #d9d9d9;
+  background: #f2f2f2; }
+  footer ul {
+    overflow: hidden;
+    width: 950px;
+    margin: 0 auto; }
+    footer ul li {
+      float: left; }
+      footer ul li a {
+        color: #666; }
+      footer ul li:nth-child(2) a {
+        border-left: 1px solid #666;
+        border-right: 1px solid #666;
+        padding: 0 7px;
+        margin: 0 7px; }
+      footer ul li:nth-child(4) a {
+        border-left: 1px solid #666;
+        border-right: 1px solid #666;
+        padding: 0 7px;
+        margin: 0 7px; }
+      footer ul li:nth-child(6) a {
+        border-left: 1px solid #666;
+        border-right: 1px solid #666;
+        padding: 0 7px;
+        margin: 0 7px; }
+      footer ul li:nth-child(8) a {
+        border-left: 1px solid #666;
+        border-right: 1px solid #666;
+        padding: 0 7px;
+        margin: 0 7px; }
+      footer ul li:nth-child(10) a {
+        border-left: 1px solid #666;
+        border-right: 1px solid #666;
+        padding: 0 7px;
+        margin: 0 7px; }
+
+/*# sourceMappingURL=regsiter.css.map */
